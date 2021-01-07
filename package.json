@@ -1,0 +1,19 @@
+{
+  "name": "danbi-day-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck ./src/main.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eunchurn Park <eunchurn.park@gmail.com> (https://github.com/eunchurn)",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  },
+  "dependencies": {
+    "mdx-code": "2.0.0"
+  }
+}
